@@ -1,0 +1,15 @@
+
+Ksquid:S1604"(Make this anonymous inner class a lambda(ÿ€È¥ùÿÿÿÿ8÷ÂŸ0
+>squid:S1659" Declare "m2" on a separate line.(¡¼«¦8Æ¾¤ 0
+Asquid:S1659"#Declare "total" on a separate line.(¡¼«¦8Æ¾¤ 0
+gsquid:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8÷ÂŸ0
+qsquid:S00116"MRename this field "Q2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şçĞ‰ıÿÿÿÿ8ÚòˆŸ0
+usquid:S00116	"QRename this field "Remark" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êìÿ¯ùÿÿÿÿ8‘„ŒŸ0
+xsquid:S00116"TRename this field "TotalMark" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç–ç¢ùÿÿÿÿ8§Ñ‘Ÿ0
+ssquid:S00116
+"TRename this field "Calculate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ÿ¡“8ì¶ÅŸ0
+nsquid:S00116"ORename this field "Main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¥±Ñ8÷ÂŸ0
+>squid:S1659" Declare "m3" on a separate line.(¡¼«¦8Æ¾¤ 0
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ÿ‰£.
+lsquid:S00116"MRename this field "Q1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğŠúÜ8¤¢ˆŸ0
+qsquid:S00116"MRename this field "Q3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¢«Íÿÿÿÿÿ8êÅ‰Ÿ0
